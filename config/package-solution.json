@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-almapi-client-side-solution",
+    "id": "5d21915f-5218-4173-8dad-d5d5a4fbb87b",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-almapi.sppkg"
+  }
+}
